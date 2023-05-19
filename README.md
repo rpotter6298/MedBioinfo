@@ -1,3 +1,4 @@
+.
 # MedBioinfo 2023 Applied Bioinformatics
 ## repo for re-analysis
 
